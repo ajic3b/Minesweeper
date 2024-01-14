@@ -1,0 +1,2 @@
+C:\Users\alexi\OneDrive\Desktop\Project_Minesweeper\project3\x64\Debug\project3.exe
+C:\Users\alexi\OneDrive\Desktop\Project_Minesweeper\x64\Debug\project3.exe
